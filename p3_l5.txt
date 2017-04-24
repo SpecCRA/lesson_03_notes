@@ -1,0 +1,26 @@
+Data Cleaning
+	- an iterative process
+		- first we detect things then correct things
+		- examples: two versus 2
+		- outliers in statistics
+		- formatting differences
+	- sources of dirty data
+		- anything that involves humans!
+		- user entry errors
+		- poorly applied coding standards
+		- different schemas, ex. hair vs hair_color
+		- legacy systems - when data was encoded in different systems
+		- no unique identifiers
+		- some data is lost in data migration
+		- programmer error!!!
+		- corrupt data in data transfer
+	- measuring data quality
+		- validity - how well data conforms to a schema
+		- accuracy - conform to gold standard
+			- ex does every data point on the map actually exist?
+		- completeness - do we have all the records we should have?
+		- consistency - fields represent the same data across systems
+		- uniformity - same units, like meters with distance
+
+Blueprint for data cleaning
+	- 
